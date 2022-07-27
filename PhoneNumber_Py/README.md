@@ -13,7 +13,7 @@ This script takes a phone number as input and returns the countrycode, timezone,
 
  ### How to run the script
 - Provide your phonenumbers and 
-- Execute `PhoneNumbers.py`
+- Execute `PhoneNumber.py`
 
 ### Output of the following code:
 
